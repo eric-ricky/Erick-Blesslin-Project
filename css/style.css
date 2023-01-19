@@ -83,12 +83,12 @@ blockquote{
   img {
     width: 50%;
     /* max-width: 50%; */
-    height: 50%;
+    /* height: 50%;
     border-radius: 7px;
     display: block;
-  }
+  } */
   
-  #img-div {
+  /* #img-div {
     background-color: white;
     align-items: center;
     justify-items: center;
@@ -97,6 +97,6 @@ blockquote{
     height: 50%;
     margin: 2rem auto;
     border-radius: 7px;
-  }
+  } */
 
-} */
+/* } */ 
