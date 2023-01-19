@@ -75,3 +75,28 @@ blockquote{
   margin: 40px;
   font-style: italic;
 }
+
+/* Make image responsive - optional
+  BUGS Down
+*/
+/* @media only screen and (min-width: 400px) {
+  img {
+    width: 50%;
+    /* max-width: 50%; */
+    height: 50%;
+    border-radius: 7px;
+    display: block;
+  }
+  
+  #img-div {
+    background-color: white;
+    align-items: center;
+    justify-items: center;
+    padding: 1rem;
+    width: 50%;
+    height: 50%;
+    margin: 2rem auto;
+    border-radius: 7px;
+  }
+
+} */
